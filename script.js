@@ -77,7 +77,7 @@ backToTop.addEventListener('click', () => {
 
 // ===== GALERY DYNAMIC =====
 const galleryImages = [
-    'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80',
+    'https://img.sanishtech.com/u/52e45d9d37c4bae6d6281c6d4712e503.jpg',
     'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
     'https://images.unsplash.com/photo-1580582932707-520aed937b7b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
     'https://images.unsplash.com/photo-1524178232363-933d15d893ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
