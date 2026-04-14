@@ -78,9 +78,9 @@ backToTop.addEventListener('click', () => {
 // ===== GALERY DYNAMIC =====
 const galleryImages = [
     'https://img.sanishtech.com/u/52e45d9d37c4bae6d6281c6d4712e503.jpg',
-    'https://img.sanishtech.com/u/b80cf9b5aabb2f1cc99c5c618dc64b7c.jpg',
+    'https://i.ibb.co/bgKY70yG/IMG-20260414-180812-714.webp',
     'https://www.image2url.com/r2/default/images/1776138412086-1c9cf6bf-3b26-447d-ab78-f91c44c43a85.jpg',
-    'https://www.image2url.com/r2/default/images/1776138508161-91bd0d74-7ee7-4590-9e8e-9a4a8ae4e419.jpg',
+    'https://i.ibb.co/bgKY70yG/IMG-20260414-180812-714.webp',
     'https://i.ibb.co/XrnNctg1/IMG-20260414-180911-845.webp',
     'https://i.ibb.co/FbfgFBzy/IMG-20260414-180906-345.webp',
     'https://i.ibb.co/tPq98tFj/IMG-20260414-180820-858.webp',
@@ -88,7 +88,7 @@ const galleryImages = [
     'https://i.ibb.co/Zzw8hkDg/IMG-20260414-180720-147.webp',
     'https://i.ibb.co/4r5wR7F/IMG-20260414-180901-222.webp',
     'https://i.ibb.co/m5bF2bff/IMG-20260414-180747-600.webp',
-    'https://i.ibb.co/jPvkgh80/IMG-20260414-180711-887.webp'
+    'https://i.ibb.co/kVgtqm6R/IMG-20260414-182140-049.webp'
 ];
 
 function createGallery() {
