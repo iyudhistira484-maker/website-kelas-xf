@@ -81,14 +81,14 @@ const galleryImages = [
     'https://img.sanishtech.com/u/b80cf9b5aabb2f1cc99c5c618dc64b7c.jpg',
     'https://www.image2url.com/r2/default/images/1776138412086-1c9cf6bf-3b26-447d-ab78-f91c44c43a85.jpg',
     'https://www.image2url.com/r2/default/images/1776138508161-91bd0d74-7ee7-4590-9e8e-9a4a8ae4e419.jpg',
-    'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1576916813344-462f5d07deaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1519452635265-7b1fbfd1e891?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-    'https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp'
 ];
 
 function createGallery() {
