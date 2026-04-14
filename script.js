@@ -80,7 +80,7 @@ const galleryImages = [
     'https://img.sanishtech.com/u/52e45d9d37c4bae6d6281c6d4712e503.jpg',
     'https://img.sanishtech.com/u/b80cf9b5aabb2f1cc99c5c618dc64b7c.jpg',
     'https://www.image2url.com/r2/default/images/1776138412086-1c9cf6bf-3b26-447d-ab78-f91c44c43a85.jpg',
-    'https://images.unsplash.com/photo-1524178232363-933d15d893ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    'https://www.image2url.com/r2/default/images/1776138508161-91bd0d74-7ee7-4590-9e8e-9a4a8ae4e419.jpg',
     'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
     'https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
     'https://images.unsplash.com/photo-1576916813344-462f5d07deaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
