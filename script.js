@@ -83,12 +83,12 @@ const galleryImages = [
     'https://www.image2url.com/r2/default/images/1776138508161-91bd0d74-7ee7-4590-9e8e-9a4a8ae4e419.jpg',
     'https://i.ibb.co/XrnNctg1/IMG-20260414-180911-845.webp',
     'https://i.ibb.co/FbfgFBzy/IMG-20260414-180906-345.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp'
+    'https://i.ibb.co/tPq98tFj/IMG-20260414-180820-858.webp',
+    'https://i.ibb.co/gMxmw9D5/IMG-20260414-180844-254.webp',
+    'https://i.ibb.co/Zzw8hkDg/IMG-20260414-180720-147.webp',
+    'https://i.ibb.co/4r5wR7F/IMG-20260414-180901-222.webp',
+    'https://i.ibb.co/m5bF2bff/IMG-20260414-180747-600.webp',
+    'https://i.ibb.co/jPvkgh80/IMG-20260414-180711-887.webp'
 ];
 
 function createGallery() {
