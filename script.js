@@ -204,7 +204,7 @@ contactForm.addEventListener('submit', (e) => {
     submitBtn.disabled = true;
     
     setTimeout(() => {
-        alert('Terima kasih! Pesan Anda telah terkirim. Kami akan balas dalam 24 jam.');
+        alert('Terima kasih! Pesan Anda telah terkirim. Kami akan balas dalam 24 jam, Jangan lupa cek Email kamu ya!.');
         contactForm.reset();
         submitBtn.textContent = originalText;
         submitBtn.disabled = false;
