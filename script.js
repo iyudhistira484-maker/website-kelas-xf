@@ -79,7 +79,7 @@ backToTop.addEventListener('click', () => {
 const galleryImages = [
     'https://img.sanishtech.com/u/52e45d9d37c4bae6d6281c6d4712e503.jpg',
     'https://i.ibb.co/MyHVWhPN/IMG-20260414-182416-064.webp',
-    'https://www.image2url.com/r2/default/images/1776138412086-1c9cf6bf-3b26-447d-ab78-f91c44c43a85.jpg',
+    'https://i.ibb.co/2Yj4NDMs/1776166068090.webp',
     'https://i.ibb.co/bgKY70yG/IMG-20260414-180812-714.webp',
     'https://i.ibb.co/XrnNctg1/IMG-20260414-180911-845.webp',
     'https://i.ibb.co/FbfgFBzy/IMG-20260414-180906-345.webp',
