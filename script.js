@@ -82,7 +82,7 @@ const galleryImages = [
     'https://www.image2url.com/r2/default/images/1776138412086-1c9cf6bf-3b26-447d-ab78-f91c44c43a85.jpg',
     'https://www.image2url.com/r2/default/images/1776138508161-91bd0d74-7ee7-4590-9e8e-9a4a8ae4e419.jpg',
     'https://i.ibb.co/XrnNctg1/IMG-20260414-180911-845.webp',
-    'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
+    'https://i.ibb.co/FbfgFBzy/IMG-20260414-180906-345.webp',
     'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
     'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
     'https://i.ibb.co.com/gMX56YxM/1776140093538.webp',
